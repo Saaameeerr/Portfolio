@@ -8,7 +8,7 @@ export default function About() {
     >
       <h2 className="text-3xl font-bold mb-6">About Me</h2>
       <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-        Hi, I'm <span className="font-semibold">Your Name</span>, a passionate{" "}
+        Hi, I'm <span className="font-semibold">Sameer Khan</span>, a passionate{" "}
         <span className="text-blue-500">Web Developer</span> who loves
         building clean, modern, and responsive web applications.
         <br />
